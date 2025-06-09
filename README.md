@@ -1,8 +1,8 @@
 # 🌾 Maestros — Smart India Hackathon 2024
 AI-ML Models for Predicting Prices and Managing Buffer Stock of Agri-Horticultural Commodities
-Team ID: 30183 | Problem ID: 1647
-Theme: Agriculture, FoodTech & Rural Development
-Category: Software
+- Team ID: 30183 | Problem ID: 1647
+- Theme: Agriculture, FoodTech & Rural Development
+- Category: Software
 
 ---
 
