@@ -12,6 +12,11 @@ Our project tackles price volatility in agri-horticultural commodities by predic
 ---
 
 ## 🧠 Core Features
+
+### Web Scraping Methods
+
+- Used Selenium to extract the .csv files containing the data of wholesale and retail prices from government website of Department of Consumer Affairs: https://consumeraffairs.nic.in/
+  
 ### Price Prediction Models
 
 - 📈 SARIMAX: Considers wholesale price and seasonality.
@@ -40,6 +45,8 @@ Our project tackles price volatility in agri-horticultural commodities by predic
 - Frontend: HTML, CSS, JavaScript
 
 - Backend: Django, Python
+
+- Web Scraping: Selenium 
 
 - AI/ML: GRU, SARIMAX, NLP, RNN, LSTM
 
